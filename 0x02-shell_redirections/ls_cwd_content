@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 2 abdullahi abdullahi 4096 Mar 19 23:14 .
+drwxr-xr-x 6 abdullahi abdullahi 4096 Mar 18 14:09 ..
+-rwxr--r-- 1 abdullahi abdullahi   32 Mar 18 14:16 0-hello_world
+-rw-r--r-- 1 abdullahi abdullahi    2 Mar 18 17:37 1-confused_smiley
+-rwxr--r-- 1 abdullahi abdullahi   28 Mar 18 14:29 2-hellofile
+-rwxr--r-- 1 abdullahi abdullahi   39 Mar 18 14:33 3-twofiles
+-rwxr--r-- 1 abdullahi abdullahi   33 Mar 18 14:35 4-lastlines
+-rwxr--r-- 1 abdullahi abdullahi   29 Mar 18 14:53 5-firstlines
+-rwxr--r-- 1 abdullahi abdullahi   40 Mar 18 17:44 6-third_line
+-rwxr--r-- 1 abdullahi abdullahi   78 Mar 18 17:54 7-file
+-rwxr--r-- 1 abdullahi abdullahi   36 Mar 19 23:13 8-cwd_state
+-rw-r--r-- 1 abdullahi abdullahi   84 Mar 18 14:11 README.md
+-rw-r--r-- 1 abdullahi abdullahi   12 Mar 18 17:54 \*\'"Best School"\'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 abdullahi abdullahi   38 Mar 18 17:53 \*\'Best
+-rw-r--r-- 1 abdullahi abdullahi  747 Mar 18 15:08 iacta
+-rw-r--r-- 1 abdullahi abdullahi    0 Mar 19 23:15 ls_cwd_content
+-rw-r--r-- 1 abdullahi abdullahi    1 Mar 19 23:14 overwritten
